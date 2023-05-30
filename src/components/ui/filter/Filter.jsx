@@ -20,11 +20,6 @@ const Filter = () => {
                     <FontAwesomeIcon className='text-bgGreen text-xl mr-2' icon={ faFilter }/>
                     <span className='text-base text-darkGray'>Filters</span>
                 </button>
-                {/* <button 
-                    className='bg-darkGray py-1 px-3 ml-2 rounded-md text-bgColor'>
-                    <FontAwesomeIcon icon={ faBroom } />
-                </button> */}
-                
             </div>
         </div>
         {
