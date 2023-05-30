@@ -1,0 +1,126 @@
+[
+    {
+        "taskNo": "2000012",
+        "clinetName":"Fred Albert",
+        "clientProfilePic":"https://xsgames.co/randomusers/assets/avatars/female/9.jpg",
+        "status": "Completed",
+        "statusColour": "bgGreen",
+        "email":"albert@gmail.com",
+        "rating":"5",
+        "online": false,
+        "distance":"1Km",
+        "contactNo" : "024 102 798",
+        "description": "My headlights need to be replaced",
+        "location": "London",
+        "attachment":[],
+        "date": "2023-05-26",
+        "time": "02:10:00 AM",
+        "chatHistory":[
+            {
+                "date":"2023-05-20",
+                "time":"11:34:10 AM",
+                "client":true,
+                "comment":"Hi I need to replace my car headlights"
+            },
+            {
+                "date":"2023-05-20",
+                "time":"11:34:10 AM",
+                "client":false,
+                "comment":"Hi, sure. may I get car details please?"
+            },
+            {
+                "date":"2023-05-20",
+                "time":"11:34:10 AM",
+                "client":true,
+                "comment":"sure I'll send them soon."
+            }
+         ],
+         "scheduleDetails": {
+            "date":"",
+            "time":""
+         }
+     },
+     {
+        "taskNo": "2000015",
+        "clinetName":"Logan Richard",
+        "clientProfilePic":"https://xsgames.co/randomusers/assets/avatars/female/4.jpg",
+        "status": "On-Hold",
+        "statusColour": "bgOnHold",
+        "contactNo" : "024 345 333",
+        "online": true,
+        "description": "Roof repair",
+        "email":"richard@gmail.com",
+        "rating":"4",
+        "note":[{"note":"something you add here", "date":"2023/05/30", "time":"12:22PM"}],
+        "distance":"1.3Km",
+        "attachment":["doc-01"],
+        "location": "Chickasaw",
+        "date": "2023-05-27",
+        "time": "04:10:00 PM",
+        "chatHistory":[
+            {
+                "date":"2023-05-20",
+                "time":"11:34:10 AM",
+                "client":true,
+                "comment":"Hi I need to replace my car headlights"
+            },
+            {
+                "date":"2023-05-20",
+                "time":"11:34:10 AM",
+                "client":false,
+                "comment":"Hi, sure. may I get car details please?"
+            },
+            {
+                "date":"2023-05-20",
+                "time":"11:34:10 AM",
+                "client":true,
+                "comment":"sure I'll send them soon."
+            }
+         ],
+         "scheduleDetails": {
+            "date":"",
+            "time":""
+         }
+     },
+     {
+        "taskNo": "2000017",
+        "clinetName":"Nicholas Jack",
+        "clientProfilePic":"https://xsgames.co/randomusers/assets/avatars/male/4.jpg",
+        "status": "In-Progress",
+        "statusColour": "bgInProgress",
+        "online": true,
+        "attachment":["doc-01", "doc-02"],
+        "contactNo" : "024 237 345",
+        "rating":"4",
+        "distance":"2Km",
+        "email":"jack@gmail.com",
+        "description": "Garden design work",
+        "location": "Phenix City",
+        "date": "2023-04-12",
+        "time": "04:10:00 PM",
+        "chatHistory":[
+            {
+                "date":"2023-05-20",
+                "time":"11:34:10 AM",
+                "client":true,
+                "comment":"Hi I need to replace my car headlights"
+            },
+            {
+                "date":"2023-05-20",
+                "time":"11:34:10 AM",
+                "client":false,
+                "comment":"Hi, sure. may I get car details please?"
+            },
+            {
+                "date":"2023-05-20",
+                "time":"11:34:10 AM",
+                "client":true,
+                "comment":"sure I'll send them soon."
+            }
+         ],
+         "scheduleDetails": {
+            "date":"",
+            "time":""
+         }
+     }
+]
